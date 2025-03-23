@@ -8,4 +8,7 @@ public class User {
     private List<Ticket> ticketsBooked;
     private String userId;
 
+    public Object getName() {
+        return name;
+    }
 }
