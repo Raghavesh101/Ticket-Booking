@@ -1,0 +1,10 @@
+# Ignore compiled output folder
+out/
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
